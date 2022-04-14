@@ -12,4 +12,4 @@
 **Pyinstaller Comando:** **pyinstaller -y -F main.py**
 
 # Contacto
-**Negro100pesos#1234**
+**Euronymou5#1234**
